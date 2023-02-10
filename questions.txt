@@ -1,0 +1,57 @@
+AGE:
+ - Hourly rate (scatterplot)
+ - TotalWorkingYears	
+ -WorkLifeBalance	
+ -YearsAtCompany	
+ -YearsSinceLastPromotion	
+ -YearsWithCurrManager
+ 
+ 
+ Attrition
+ 
+ - 
+ 
+ 
+ 
+ Which factors are statistically relevant when compared to Attrition
+ 
+ A: Age, Environment Satisfaction, Job Involvement, Total Working Years, Work Life Balance, Years at Company, Years with Current Manager
+ 
+ 
+ 
+ Unused columns: Department, EducationField, Gender, Job Role, Marital Status, Overtime 
+ 
+Groupby for unused?
+
+
+pie chart potential: Marital Status, Overtime 
+ 
+ 
+Without groupby, attrition yes and no pie chart
+
+
+
+Dailyrate vs Monthly Income- 
+
+
+Categorical Columns: Education, EnvironmentSatisfaction, JobInvolvement, JobSatisfaction, WorkLifeBalance
+
+
+
+hourly rate mean 
+
+ 
+Comparing average annual income with all the categorical variables.
+
+
+
+Sonila:
+    distribution of attrition
+    correlation 
+    
+Jeff:
+    
+ 
+ 
+ 
+ 
